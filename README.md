@@ -1,0 +1,2 @@
+# Rally
+Implements a results system for a rally race that consists of several special stages. For each driver, the last name is stored, along with his team. In addition, the system maintains the overall time for each driver, that consists of hours, minutes, and seconds. You can decide how the time is stored in memory, but it should be possible to store an arbitrarily large number of drivers. You can assume that the last name identifies the driver. For strings, at least 20 characters should be supported, but but you can decide how to handle longer strings.
